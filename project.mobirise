@@ -28,7 +28,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/ffa-128x127.png",
     "noImageResize": "",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "4.5.4",
     "screenshot": "screenshot.png"
   },
@@ -249,6 +249,104 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ffa-265x264.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "title1": "Applications",
+          "text1": "The Forum Fishieries Agency is an organisation that helps&nbsp;its 17 members can manage, control and develop their tuna fisheries",
+          "text2": "(677) 21124 EXT 267",
+          "text3": "1 FFA RD, Honiara, Solomon Islands&nbsp;",
+          "text4": "ano.tisam@<a href=\"mailto:ano.tisam@ffa.int\">f</a>fa.int",
+          "text5": "<li><a class=\"text-white\" href=\"#\">W</a>orkflow</li><li><a class=\"text-white\" href=\"#\">A</a>utomation</li><li><a class=\"text-white\" href=\"#\">I</a>nvoice</li><li><a class=\"text-white\" href=\"#\">F</a>orms</li>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Contact</b></span></font><br>Developer: Ano Tisam<br><br><br><strong>Address</strong><br>1 FFA Road<br>Honiara, Guadacanal <br>Solomon Islands",
+          "form": {
+            "title": "MESSAGE",
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-e"
         }
       ]
     }
