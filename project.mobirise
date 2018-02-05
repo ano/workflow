@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Applications",
+    "name": "Workflow",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -36,8 +36,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Workflow",
+        "meta_descr": "Workflow lets you design digital workflows",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
