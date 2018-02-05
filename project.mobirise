@@ -139,7 +139,7 @@
           },
           "title": "Pipes",
           "text": "Each workflow process is called a pipe. &nbsp;Pipes let you create and design a process and make them digital.&nbsp;A pipe is made up of <b><i>Stages </i></b>and <b><i>Cards</i></b>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://help.pipefy.com/the-complete-guide-to-pipefy/navigating-the-complete-guide-to-pipefy\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Learn More</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-a\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Steps</a> ",
           "_tags": [
             "Theme"
           ],
@@ -191,7 +191,7 @@
           },
           "title": "Steps",
           "text": "Each workflow has a series of steps. Tasks arrive as <b>Cards </b>and move from left to right along the Workflow Steps. You can add, remove and edit these stages to do different things.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://help.pipefy.com/the-complete-guide-to-pipefy/1-getting-to-know-pipefy\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-8\" data-toolbar=\"-mbrBtnMove\">Cards</a>",
           "_tags": [
             "Theme"
           ],
@@ -243,7 +243,7 @@
           },
           "title": "Cards",
           "text": "Each task is created as a card. You can assign people, create checklists, leave comments and move tasks to different stages. Each card is fully customisable.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://help.pipefy.com/the-complete-guide-to-pipefy/1-getting-to-know-pipefy\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#header2-7\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
           ],
@@ -312,7 +312,7 @@
           "text2": "(677) 21124 EXT 267",
           "text3": "1 FFA RD, Honiara, Solomon Islands&nbsp;",
           "text4": "ano.tisam@<a href=\"mailto:ano.tisam@ffa.int\">f</a>fa.int",
-          "text5": "<li><a class=\"text-white\" href=\"#\">W</a>orkflow</li><li><a class=\"text-white\" href=\"#\">A</a>utomation</li><li><a class=\"text-white\" href=\"#\">I</a>nvoice</li><li><a class=\"text-white\" href=\"#\">F</a>orms</li>",
+          "text5": "<li><a class=\"text-primary\" href=\"https://ano.github.io/workflow/\">Workflow</a></li><li><a class=\"text-primary\" href=\"https://ano.github.io/automate/\">Automation</a></li><li><a class=\"text-primary\" href=\"https://ano.github.io/invoice/\">Invoice</a></li><li><a class=\"text-primary\" href=\"https://ano.github.io/form/\">Forms</a></li>",
           "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Contact</b></span></font><br>Developer: Ano Tisam<br><br><br><strong>Address</strong><br>1 FFA Road<br>Honiara, Guadacanal <br>Solomon Islands",
           "form": {
             "title": "MESSAGE",
@@ -346,7 +346,12 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-e"
+          "_anchor": "contacts3-e",
+          "_styles": {
+            "LI": {
+              "color": "#0079bf"
+            }
+          }
         }
       ]
     }
